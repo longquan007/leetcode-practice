@@ -25,6 +25,10 @@
 // 2、判断处理后的字符串是否是回文字符串(逆序字符串判断、双指针判断)
 
 // 逆序字符串
+/**
+ * @param {string} s
+ * @return {boolean}
+ */
 // function isPalindrome(s) {
 //     // 过滤掉非字母数字字符，再转成小写
 //     const filterS = s.replace(/[^a-zA-Z0-9]/g, '').toLowerCase();
